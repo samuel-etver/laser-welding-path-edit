@@ -1,6 +1,6 @@
-# laser-welding-path-edit
+# Laser welding path edit
 
-### Description
+### Overview
 
 ![](Screenshots/image1.jpg)
 
