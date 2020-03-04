@@ -6,7 +6,7 @@
 
 ### Dependencies
 
- electron: 7.1.10,<p>
+ electron: 7.1.10,<br>
  electron-packager: 14.2.0,<br>
  bootstrap: 4.4.1,<br>
  csv-parser: 2.3.2,<br>
