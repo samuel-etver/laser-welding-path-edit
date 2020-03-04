@@ -559,7 +559,7 @@ function loadFromXmlFile(filename) {
               }
             }
           }
-          if ( y && status != null ) {
+          if ( y != null && status != null ) {
             newWeldingPathData.push( [y, status] );
           }
         }
