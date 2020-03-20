@@ -17,6 +17,8 @@ cd laser-welding-path-edit
 npm install
 # Run the app
 npm start
+# Build the app for Windows (64bit)
+electron-packager . --platform=win32 --arch=x64
 ```
   
 ## Dependencies
